@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fernando Lima
+- 👋 Hi, I’m Fernando Lima, and I have more than 40 years of expertise in software development.
 - 👀 I’m interested in backend programming in Python with FastApi or Flask, Node.js, PostgreSQL database
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on projects that reach my interests.
